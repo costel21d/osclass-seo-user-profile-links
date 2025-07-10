@@ -1,0 +1,10 @@
+{
+  "name": "OSClass SEO User Profile Links",
+  "version": "1.0.0",
+  "description": "Optimizes user-submitted links with rel='ugc' for SEO.",
+  "author": "Constantin Onu",
+  "author_uri": "https://github.com/costel21d/osclass-seo-user-profile-links",
+  "plugin_uri": "https://github.com/costel21d/osclass-seo-user-profile-links",
+  "support_uri": "https://github.com/costel21d/osclass-seo-user-profile-links",
+  "license": "MIT"
+}
