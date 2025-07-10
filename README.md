@@ -1,9 +1,5 @@
-# OSClass SEO User Profile Links
-A lightweight plugin that adds SEO-friendly attributes (rel="ugc", noopener) to user-submitted website links in OSClass profiles and listings.
+## OSClass SEO User Profile Links
 
-# OSClass SEO User Profile Links
-
-## Description
 This plugin automatically adds `rel="ugc"` (User-Generated Content) and `noopener` attributes to website links in OSClass user profiles, improving SEO and security.
 
 ## Features
